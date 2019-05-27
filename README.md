@@ -2,6 +2,6 @@
 Generic form for React
 
 
-Dependencies: Bootstrap,
-              Joi,
-              React.
+Dependencies: bootstrap,
+              joi-browser,
+              react.
